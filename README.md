@@ -1,4 +1,4 @@
-<h1 align="center">AndroidAppUpdater</h1>
+<h1 align="center">AndroidAppUpdater - Java (Kotlin, Android)</h1>
 <h4 align="center">Android Library</h4>
 
 <p align="center">
@@ -19,13 +19,13 @@
 </p>
 
 ## Description 
-MAHAndroidUpdater is free, open source, third party Android library for notifing update information to installed android apps on android device. By it's help old application gets notified about update information from Google Play Market.
+AndroidAppUpdater is free, open source, third party Android library for notifing update information to installed android apps on android device. By it's help old application gets notified about update information from Google Play Market.
 `Library has built with Kotlin language on Android Studio IDE` and binaries have added to `jcenter()`  `maven` repository.   
 You can check  [jCenter() download statistics](https://bintray.com/hummatli/maven/mah-android-updater#statistics) on this [link](https://bintray.com/hummatli/maven/mah-android-updater#statistics)  
 There is a list of [application using MAHAndroidUpdater](https://github.com/hummatli/MAHAndroidUpdater#applications-using-mahandroidupdater). It would be nice if see your app link there too. If you use this library and want to see your app in the start of the [list](https://github.com/hummatli/MAHAndroidUpdater#applications-using-mahandroidupdater) please [inform me](mailto:settarxan@gmail.com) or send a pull request.
 
 * [jCenter() download statistics](https://bintray.com/hummatli/maven/mah-android-updater#statistics)
-* [Application using MAHAndroidUpdater](https://github.com/hummatli/MAHAndroidUpdater#applications-using-mahandroidupdater)
+* [Application using AndroidAppUpdater](https://github.com/hummatli/MAHAndroidUpdater#applications-using-mahandroidupdater)
 
 <img src="https://raw.githubusercontent.com/hummatli/MAHAndroidUpdater/master/imgs/green_star.png" width="20px"/>  _**Don't forget to start the protect to support us**_  
 
@@ -37,7 +37,8 @@ There is a list of [application using MAHAndroidUpdater](https://github.com/humm
 * Translator `Portuguese`: [azzarr](https://github.com/azzarr) , Thanks!
 * Translator `Hindi`: [dalwadi2](https://github.com/dalwadi2), Thanks!
 * Translator `German`: [Ndam Njoya](https://www.facebook.com/ndam.njoya), Thanks!
-
+* Translator `French`: [Zeldarck](https://github.com/Zeldarck), Thanks!, Has changed sample apps to support `French`. 
+* Translator `Greek`: [Nikos Linakis](https://github.com/hastoukopsaro), Thanks!.
 
 ## Contents
 * [Description](https://github.com/hummatli/MAHAndroidUpdater#description)
@@ -205,6 +206,7 @@ Library now supports following languages
 * Azerbaijan
 * English
 * German
+* Greek
 * Hindi
 * Portuguese
 * Russia
